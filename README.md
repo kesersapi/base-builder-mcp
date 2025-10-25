@@ -62,3 +62,4 @@ After adding Base Builder MCP to your agent, you can use it by saying "I want to
 
 ![Claude Agent](https://i.imgur.com/WNdcToq.png)
  *Claude agent calling Base Builder MCP*
+ 
